@@ -12,5 +12,5 @@ GRAPH
   firewall-test (1.0.0)
     chef-sugar (>= 0.0.0)
     midins-firewall (>= 0.0.0)
-  midins-firewall (1.0.1)
+  midins-firewall (1.0.2)
     chef-sugar (>= 0.0.0)
