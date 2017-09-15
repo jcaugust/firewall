@@ -42,6 +42,7 @@ vendor/
 .coverage/
 .zero-knife.rb
 Policyfile.lock.json
+metadata.json
 
 # vagrant stuff
 .vagrant/
